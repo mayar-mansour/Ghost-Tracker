@@ -27,7 +27,7 @@ Add the GitHub repo to your `composer.json`:
 "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/YOUR_USERNAME/ghosttrack"
+    "url": "https://github.com/mayar-mansour/ghosttrack"
   }
 ]
 ```
