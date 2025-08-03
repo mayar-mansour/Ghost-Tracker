@@ -193,6 +193,6 @@ Pull requests welcome! Please PR on the `main` branch with clear commits.
 
 ## 📄 License
 
-MIT © [Mayar Mansour](https://github.com/mayarmansour)
+MIT © [Mayar Mansour](https://github.com/mayar-mansour)
 
 ---
