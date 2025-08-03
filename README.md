@@ -2,7 +2,7 @@
 
 **GhostTrack** is a lightweight Laravel package to silently track user actions (like `viewed_product`, `clicked_checkout`, or `submitted_form`) **without bloating your logs or slowing down your app**.
 
-Built by [@MayarMansour](https://github.com/mayarmansour)
+Built by [@MayarMansour](https://github.com/mayar-mansour)
 
 ---
 
